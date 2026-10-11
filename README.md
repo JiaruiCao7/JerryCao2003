@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JiaBaoyu777
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning docker, python, spark
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 JiaBaoyu777/JiaBaoyu777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
